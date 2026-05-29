@@ -4,7 +4,7 @@ Various projects using Java
 ## Codeacademy
 So using the codeacademy service I upload the projects I complete from that here, and categorise by module
 
-### Intro to Java
+### Learn Java
 Basics:
 Includes a tree project that draws a tree as a string
 
