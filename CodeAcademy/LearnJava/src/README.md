@@ -18,3 +18,6 @@ Loops:
 FizzBuzz is a classic programming question,
 
 Prime Directive is using loops to mess around with prime numbers
+
+String methods:
+DNA sequencing using string methods to check if a DNA string contains a protein.
